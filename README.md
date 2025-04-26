@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Waldenise!
 
-🎓 Estudante de Ciência de Dados e Inteligência Artificial | Formação em Engenharia de Produção e Segurança do Trabalho.  
+🎓 Estudante de Ciência de Dados e Inteligência Artificial | Formação em Engenharia de Produção, Ambiental e Segurança do Trabalho.  
 📚 Atualmente desenvolvendo habilidades em análise de dados, estatística, machine learning e visualização de dados.  
 🚀 Apaixonada por tecnologia, inovação e por transformar dados em soluções estratégicas.
 
