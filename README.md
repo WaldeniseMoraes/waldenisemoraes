@@ -1,3 +1,7 @@
+
+<img src="assets/banner-waldenise.png" alt="Banner Waldenise Moraes - Cientista de Dados" width="100%">
+</p>
+
 # 👋 Olá, eu sou Waldenise!
 
 🎓 Estudante de Ciência de Dados e Inteligência Artificial | Formação em Engenharia de Produção, Ambiental e Segurança do Trabalho.  
